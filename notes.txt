@@ -7,3 +7,6 @@ git add <file name.extension>
 
 Commit to GitHub cloud (w/ message):
 git commit -m "message"
+
+Push file to GitHub Cloud:
+git push
