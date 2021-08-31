@@ -10,3 +10,9 @@ git commit -m "message"
 
 Push file to GitHub Cloud:
 git push
+
+create new branch:
+git checkout -b <branch_name>
+
+switch branches:
+git checkout <branch_name>
